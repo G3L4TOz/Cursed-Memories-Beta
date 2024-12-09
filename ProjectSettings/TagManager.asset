@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Stamina
+  - Ghost
+  - Sword
+  - Box
+  - UndeadGhost
+  - Box2
+  - NoTriggerBox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - HallwayWall
+  - Carpet
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 2413112437
+    locked: 0
+  - name: Wall
+    uniqueID: 2567336115
+    locked: 0
+  - name: Baseboard
+    uniqueID: 2767147835
+    locked: 0
+  - name: Lanturn
+    uniqueID: 2162960901
+    locked: 0
+  - name: Furniture
+    uniqueID: 777822483
+    locked: 0
+  - name: SecondFurniture
+    uniqueID: 3477170249
+    locked: 0
+  - name: BackBox
+    uniqueID: 3169784673
+    locked: 0
+  - name: BackNote
+    uniqueID: 2246638275
+    locked: 0
+  - name: Shield
+    uniqueID: 4048264273
+    locked: 0
+  - name: Entity
+    uniqueID: 1370297127
+    locked: 0
+  - name: FrontFurniture
+    uniqueID: 43585475
+    locked: 0
+  - name: FrontNote
+    uniqueID: 3650745909
+    locked: 0
+  - name: Potion
+    uniqueID: 3502126387
+    locked: 0
+  - name: FrontBox
+    uniqueID: 1032271121
+    locked: 0
